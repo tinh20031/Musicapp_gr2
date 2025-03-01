@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@color/black" /> <!-- Nền đen toàn màn hình -->
+    <item>
+        <bitmap android:src="@drawable/black" android:gravity="center" /> <!-- Hình ảnh tĩnh -->
+    </item>
+
+</layer-list>
