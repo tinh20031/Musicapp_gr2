@@ -47,5 +47,10 @@
 <item name="android:textColor">@color/white</item>
 </style>
 
+    <style name="XamEditTextStyle" parent="Widget.Material3.TextInputEditText.FilledBox">
+        <item name="android:backgroundTint">@color/xam</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
     <style name="Theme.MusicApp_GR2" parent="Base.Theme.MusicApp_GR2" />
 </resources>
