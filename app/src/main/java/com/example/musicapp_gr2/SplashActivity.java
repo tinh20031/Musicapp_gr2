@@ -20,19 +20,19 @@ public class SplashActivity extends AppCompatActivity {
                 public void onAnimationStart(Animator animation) {}
                 @Override
                 public void onAnimationEnd(Animator animation) {
-                    startActivity(new Intent(SplashActivity.this, MainActivity.class));
+                    startActivity(new Intent(SplashActivity.this, LoginActivity.class));
                     finish();
                 }
                 @Override
                 public void onAnimationCancel(Animator animation) {
-                    startActivity(new Intent(SplashActivity.this, MainActivity.class));
+                    startActivity(new Intent(SplashActivity.this, LoginActivity.class));
                     finish();
                 }
                 @Override
                 public void onAnimationRepeat(Animator animation) {}
             });
         } else {
-            startActivity(new Intent(SplashActivity.this, MainActivity.class));
+            startActivity(new Intent(SplashActivity.this, LoginActivity.class));
             finish();
         }
     }
