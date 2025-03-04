@@ -1,5 +1,6 @@
 plugins {
     alias(libs.plugins.android.application)
+<<<<<<< HEAD
     alias(libs.plugins.google.gms.google.services)
 }
 
@@ -10,6 +11,17 @@ android {
     defaultConfig {
         applicationId = "com.example.musicapp_gr2"
         minSdk = 33
+=======
+}
+
+android {
+    namespace = "com.example.explorepage"
+    compileSdk = 35
+
+    defaultConfig {
+        applicationId = "com.example.explorepage"
+        minSdk = 24
+>>>>>>> 9d2149f (Explore Page)
         targetSdk = 35
         versionCode = 1
         versionName = "1.0"
@@ -38,7 +50,10 @@ dependencies {
     implementation(libs.material)
     implementation(libs.activity)
     implementation(libs.constraintlayout)
+<<<<<<< HEAD
     implementation(libs.firebase.auth)
+=======
+>>>>>>> 9d2149f (Explore Page)
     testImplementation(libs.junit)
     androidTestImplementation(libs.ext.junit)
     androidTestImplementation(libs.espresso.core)

@@ -19,6 +19,11 @@ dependencyResolutionManagement {
     }
 }
 
+<<<<<<< HEAD
 rootProject.name = "Music App_GR2"
 include(":app")
  
+=======
+rootProject.name = "ExplorePage"
+include(":app")
+>>>>>>> 9d2149f (Explore Page)

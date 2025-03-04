@@ -2,6 +2,7 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+<<<<<<< HEAD
     <color name="purple_200">#FFBB86FC</color>
     <color name="purple_500">#FF6200EE</color>
     <color name="purple_700">#FF3700B3</color>
@@ -11,4 +12,6 @@
     <color name="xam">#1E1E1E</color>
     <color name="xan">#06A0B5</color>
     <color name="xan1">#7CEEFF</color>
+=======
+>>>>>>> 9d2149f (Explore Page)
 </resources>

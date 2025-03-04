@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!--<resources xmlns:tools="http://schemas.android.com/tools">
     &lt;!&ndash; Base application theme. &ndash;&gt;
     <style name="Base.Theme.MusicApp_GR2" parent="Theme.Material3.DayNight.NoActionBar">
@@ -60,3 +61,14 @@
 
     <style name="Theme.MusicApp_GR2" parent="Base.Theme.MusicApp_GR2" />
 </resources>
+=======
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ExplorePage" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.ExplorePage" parent="Base.Theme.ExplorePage" />
+</resources>
+>>>>>>> 9d2149f (Explore Page)

@@ -1,3 +1,7 @@
 <resources>
+<<<<<<< HEAD
     <string name="app_name">Music App_GR2</string>
+=======
+    <string name="app_name">ExplorePage</string>
+>>>>>>> 9d2149f (Explore Page)
 </resources>
