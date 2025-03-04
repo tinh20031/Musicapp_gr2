@@ -38,6 +38,15 @@ dependencies {
     implementation(libs.activity)
     implementation(libs.constraintlayout)
     implementation("androidx.core:core-splashscreen:1.0.1")
+    implementation (libs.glide)
+
+    annotationProcessor ("com.github.bumptech.glide:compiler:4.16.0")
+    implementation (libs.retrofit)
+    implementation (libs.okhttp3.logging.interceptor)
+        implementation (libs.picasso)
+
+    implementation (libs.converter.gson)
+    implementation (libs.glide.transformations)
     implementation (libs.lottie)
     testImplementation(libs.junit)
     androidTestImplementation(libs.ext.junit)

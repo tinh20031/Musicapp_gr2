@@ -4,6 +4,7 @@
         <item name="android:windowNoTitle">true</item>
         <item name="android:windowFullscreen">true</item>
         <item name="android:windowContentOverlay">@null</item>
+        <item name="android:background"> @color/black</item>
     </style>
 
     <style name="Theme.MusicApp_GR2" parent="Base.Theme.MusicApp_GR2" />
