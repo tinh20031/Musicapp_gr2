@@ -1,3 +1,18 @@
 <resources>
+    <!-- text UI library -->
+
     <string name="app_name">Music App_GR2</string>
+    <string name="liked_songs_icon">Liked Songs Icon</string>
+    <string name="search_icon">Search Icon</string>
+    <string name="add_playlist_icon">Add Playlist Icon</string>
+    <string name="your_library">Your Library</string>
+    <string name="add_playlist">Add New Playlist</string>
+    <string name="liked_songs">Your Liked Songs</string>
+    <string name="recently_played">Recently Played</string>
+    <string name="sort_icon">Sort Icon</string>
+
+
+
+
+
 </resources>
